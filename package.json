@@ -1,0 +1,23 @@
+{
+  "name": "supreme-cli",
+  "version": "1.0.0",
+  "description": "构建nio do 部门vue项目的构建工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "supreme-cli": "./index.js",
+    "supreme-core":"./supreme_core.js"
+  },
+  "keywords": [
+    "vue2.x"
+  ],
+  "author": "lei.you",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "commander": "^2.14.1",
+    "copy-dir": "^0.3.0"
+  }
+}
