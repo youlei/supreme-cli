@@ -1,7 +1,7 @@
 {
   "name": "supreme-cli",
-  "version": "1.0.3",
-  "description": "蔚来 do 部门vue项目的构建工具",
+  "version": "1.0.4",
+  "description": "增加了supreme-core的下载命令",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
